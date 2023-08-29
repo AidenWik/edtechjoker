@@ -115,8 +115,9 @@ https://en.wikipedia.org/wiki/Visual_Studio_Code
 
 
 ## Golang
-
-
+Is a statically typed coding language which was designed by google. A statically typed coding language is when the coder must specify a data type at the time of declaration. It is in compiled high-level programming.
+- an extremely similar language to C systematically
+![image](https://github.com/elmsln/edtechjoker/assets/142683824/5c4190a3-59ea-4b96-b339-6e9f3b494588)
 ## SQL
 
 
